@@ -2,7 +2,7 @@
 
 **Dataset Location**
 
-`airflow/dags/data/DATA.csv`
+`airflow\dags\data\DATA.csv`
 
 **main dag**
 

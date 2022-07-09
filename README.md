@@ -6,7 +6,7 @@
 
 **main dag**
 
-`airflow\dags\main_dag copy.py`
+`airflow\dags\main_dag.py`
 
 ### Transformations applied:
 

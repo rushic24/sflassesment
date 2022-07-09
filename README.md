@@ -78,20 +78,20 @@ Cons:
 4. AWS Glue will store the result to AWS Redshift or AWS MySQL DB instance
 5. Amazon CloudWatch will monitor and log AWS Glue, since it is a serverless solution  
 
-# What is MLOPS
+# What is MLOps
 
-Over the past few years many organizations are embracing AI and machine learning to improve decision making and solve complex problems. Deploying a model in real scenarios isn't easy, it depends on how long does it take for model inference?, some models which work now might not work after two years because of change in data, do we have tools to monitor data? Can we scale the model for multiple users? etc. MLOPs is a framework which answers these problems and allows us to perform machine learning more efficiently. It includes many features of DevOps such as automation and testing but is focused on Machine Learning and Data Science by improving deployment and model monitoring. It allows organizations to quickly scale data science practices across the entire organization, without sacrificing safety or quality.
+Over the past few years many organizations are embracing AI and machine learning to improve decision making and solve complex problems. Deploying a model in real scenarios isn't easy, it depends on how long does it take for model inference?, some models which work now might not work after two years because of change in data, do we have tools to monitor data? Can we scale the model for multiple users? etc. MLOps is a framework which answers these problems and allows us to perform machine learning more efficiently. It includes many features of DevOps such as automation and testing but is focused on Machine Learning and Data Science by improving deployment and model monitoring. It allows organizations to quickly scale data science practices across the entire organization, without sacrificing safety or quality.
 
-Here is a [reddit post](https://www.reddit.com/r/MachineLearning/comments/mgzvt2/d_whats_the_simplest_most_lightweight_but/) on some popular open source toolkits for MLOPS
+Here is a [reddit post](https://www.reddit.com/r/MachineLearning/comments/mgzvt2/d_whats_the_simplest_most_lightweight_but/) on some popular open source toolkits for MLOps
 
-[Amazon SageMaker](https://aws.amazon.com/sagemaker) also provides purpose-built tools for MLOPs to help you automate and standardize processes across the ML lifecycle. Using SageMaker you can easily train, test, troubleshoot, deploy, and govern ML models at scale while maintaining model performance in production.
+[Amazon SageMaker](https://aws.amazon.com/sagemaker) also provides purpose-built tools for MLOps to help you automate and standardize processes across the ML lifecycle. Using SageMaker you can easily train, test, troubleshoot, deploy, and govern ML models at scale while maintaining model performance in production.
 
-## MLOPS project lifecycle
+## MLOps project lifecycle
 
-![image](images/mlops-cycle.png)
+![image](images/MLOps-cycle.png)
 
 
-## Benefits of MLOPs:
+## Benefits of MLOps:
 
 1. Reduce time on data collection and data preparation
 2. Automate Model Building, create reproducible models
@@ -101,6 +101,6 @@ Here is a [reddit post](https://www.reddit.com/r/MachineLearning/comments/mgzvt2
 6. Experiment with real data
 7. Easy deployment of models
 
-## Cons of MLOPs: 
+## Cons of MLOps: 
 -  Introducing MLOps to your firm might be expensive if you think short-term.
 

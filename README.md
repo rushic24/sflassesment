@@ -1,6 +1,24 @@
-## ETL Assignment
+# ETL Assignment
+
+**Dataset Location**
+
+`airflow/dags/data/DATA.csv`
+
+**main dag**
+
+`airflow\dags\main_dag copy.py`
+
+### Transformations applied:
+
+- replaced null values with `''`
+- derived website names from emails
+- fetched cities names through ip addresses via geolocation API
+
+---
+## Steps:
 
 Make sure you have docker and docker compose installed.
+For Arch linux `sudo pacman -S docker docker-compose`
 
 Then run,
 
@@ -88,7 +106,7 @@ Here is a [reddit post](https://www.reddit.com/r/MachineLearning/comments/mgzvt2
 
 ## MLOps project lifecycle
 
-![image](images/MLOps-cycle.png)
+![image](images/mlops-cycle.png)
 
 
 ## Benefits of MLOps:

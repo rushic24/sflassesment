@@ -88,7 +88,7 @@ Here is a [reddit post](https://www.reddit.com/r/MachineLearning/comments/mgzvt2
 
 ## MLOps project lifecycle
 
-![image](images/MLOps-cycle.png)
+![image](images/mlops-cycle.png)
 
 
 ## Benefits of MLOps:
